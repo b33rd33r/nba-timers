@@ -1,0 +1,14 @@
+#bucks {
+  background-color: #EEE1C6;
+  border: 5px solid #00471B;
+  border-radius: 5px;
+}
+
+#bucks h2 {
+  color: #00471B;
+}
+
+.clock-bucks.flip-clock-wrapper ul li a div div.inn {
+  background-color: #00471B;
+  color: #EEE1C6;
+}

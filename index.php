@@ -170,7 +170,7 @@
     $output .= '<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">';
     $output .= "<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css'/>";
     $output .= "<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.css'/>";
-    $output .= "<link rel='stylesheet' href='style.css'/>";
+    $output .= "<link rel='stylesheet' href='css/style.css'/>";
     $output .= "<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>";
     $output .= "<script src='https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.js'></script>";
     $output .= "<title>THE BEST COUNTDOWNS IN THE NBA!</title>";
